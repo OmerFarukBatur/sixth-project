@@ -7,7 +7,6 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "Mehmet Seven <mehmetseven0@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
